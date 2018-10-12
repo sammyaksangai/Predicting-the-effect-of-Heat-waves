@@ -1,4 +1,4 @@
-# Predicting-the-effect-of-Heat-waves
+# Predicting the effect of Heat-waves on human body
 
 Heat Wave is not known as a disaster among common people. However, the fact that more than 4500 people have died due to heat waves in India since last 4 years makes heat waves not just a common threat, but a natural disaster. The effect of Heat waves is only expected to increase in upcoming years. So it's time we find a concrete solution to deal with it.
 
